@@ -171,7 +171,7 @@
 ## 下载
 
 - **GitHub Releases（唯一官方发布位置）**：  
-  [<https://github.com/WooMonlee/SeedRe/releases/latest>](https://bbs.wuyou.net/forum.php?mod=viewthread&tid=453597)
+(https://bbs.wuyou.net/forum.php?mod=viewthread&tid=453597)
 - 其他网盘 / 镜像地址如有变化，以 Release 说明为准；**不要从非官方转载处下载**。
 
 发布包通常包含：
