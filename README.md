@@ -170,8 +170,8 @@
 
 ## 下载
 
-- **GitHub Releases（唯一官方发布位置）**：  
-(https://bbs.wuyou.net/forum.php?mod=viewthread&tid=453597)
+- 可从百度网盘下载  
+https://pan.baidu.com/s/1Ni0TZgKYkBJd8iCEW0qGUQ?pwd=8666
 - 其他网盘 / 镜像地址如有变化，以 Release 说明为准；**不要从非官方转载处下载**。
 
 发布包通常包含：
